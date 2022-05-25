@@ -31,3 +31,5 @@ Candidater à des PFE externes afin d'étre co-encadreur
 Consulter l'état des ses candidatures   
 
 Ce projet a été ponctué par la rédaction d'un mémoire.
+
+PS : Pour lancer ce projet il faut que les fichiers js soient dans un dossier js, les fichiers css dans un fichier css, les images ( sauf ceux qui ont que des chiffres dans le nom ) dans un fichier img et biensur une base de donnée prête
